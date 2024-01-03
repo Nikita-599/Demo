@@ -20,3 +20,6 @@ import org.openqa.selenium.Keys as Keys
 WebUI.openBrowser('https://art.thephpprojects.com/user-login', FailureHandling.OPTIONAL)
 
 WebUI.delay(5)
+
+WebUI.takeScreenshot(FailureHandling.OPTIONAL)
+

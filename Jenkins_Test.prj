@@ -6,6 +6,7 @@
    <UUID>77773ee6-2808-4187-ac4e-45166b2e9f40</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\aditi\Desktop\Docker\demo\Demo\Jenkins_Test.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
