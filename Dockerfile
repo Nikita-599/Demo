@@ -1,5 +1,5 @@
 # Pull Katalon Image : Latest
-docker pull katalonstudio/katalon:8.6.8
+#docker pull katalonstudio/katalon:8.6.8
 
 # Check browser versions
 docker run -t --rm katalonstudio/katalon cat /katalon/version
